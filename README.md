@@ -58,15 +58,16 @@ Use the checkboxes next to each item to keep track of what you have completed.
 
 **The most basic requirement for this project is that a user can:**
 - [ ] Login and Logout of the application using Firebase Google Authentication
+- [ ] only see the vocabulary entries that they created
 - [ ] CREATE a vocabulary entry:
   - [ ] Title
   - [ ] Definition
   - [ ] Language/Tech
   - [ ] Time submitted - Not on form. Handle in your JS
   - [ ] user ID - Not on form. Pull from User object.
-- [ ] READ entries
-- [ ] UPDATE entries
-- [ ] DELETE entries
+- [ ] READ THIER entries
+- [ ] UPDATE THEIR entries
+- [ ] DELETE THEIR entries
 - [ ] Filter by language/tech
 - [ ] Style your application using your own creativity!
 - [ ] No errors - linters should be clean
@@ -78,7 +79,6 @@ Use the checkboxes next to each item to keep track of what you have completed.
 ## Stretch 2
 [Stretch 2 Wireframe](https://www.figma.com/file/UC3Gi8HFRkZY8OIMOAUgL4/Stretch-2)
 - [ ] Users can search vocabulary entries
-- [ ] Users can only see the vocabulary entries that they created
 - [ ] Users can add Language/Tech to the database and refrerence it on their vocabulary entries
 - [ ] Users can only see the Languages/Tech categories that they created
 
