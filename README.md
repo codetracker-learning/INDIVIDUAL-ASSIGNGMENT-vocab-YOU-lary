@@ -22,7 +22,7 @@ If you only get MVP complete, but display the above Core Skills and can demonstr
 ## Tools To Use:
 - Postman for API testing
 - Firebase for database, rules, and authentication
-- Webpack template (Located in your cohort repo)
+- Webpack template setup steps (Located in your cohort repo)
 - dbdiagram.io for creating your ERD
 - Figma, google slides, or paper for flow charting your application
 - Axios for requests
