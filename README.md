@@ -25,9 +25,9 @@ If you only get MVP complete, but display the above Core Skills and can demonstr
 - Webpack template setup steps (Located in your cohort repo)
 - dbdiagram.io for creating your ERD
 - Figma, google slides, or paper for flow charting your application
-- Axios for requests
-- Github projects/milestones for planning out work
-- Bootstrap 5 for styling
+- Fetch for requests
+- Github issues/milestones for planning out work
+- Bootstrap for styling
 
 Make sure your Developer Tools are open at all times while working on this project. Use the messages provided in the Console to determine what code needs to be fixed or implemented, and use breakpoints in the Sources tab to step through your code as you debug.
 
